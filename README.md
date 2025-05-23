@@ -38,8 +38,8 @@
 
 ### 📫 Contáctame
 
-- 📧 Email: fernandomc@example.com *(cámbialo por el real)*
-- 🌐 Portafolio: [TuPortafolio.com](https://tusitio.dev) *(opcional)*
+- 📧 Email: al222111438@gmail.com
+- 🌐 Portafolio: [TuPortafolio.com](https://tusitio.dev) 
 - 💼 LinkedIn: [linkedin.com/in/fernandomc](https://linkedin.com/in/fernandomc)
 
 ---
@@ -47,7 +47,7 @@
 > “Hazlo simple, pero significativo.” – Don Draper
 
 
-- Email: [tu_correo@example.com]
+- Email: [al222111438@gmail.com]
 - LinkedIn: [Tu perfil de LinkedIn]
 - Portafolio: [Enlace a tu portafolio si tienes]
 
